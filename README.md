@@ -4,4 +4,8 @@ Antimicrobials idenification Dataset
 XUAMP + DBAASP + DRAMP + LAMP = our dataset 
 
 We used CD_HIT with 80% thresold, word size n= 5,
-total sequence = 16000 sequence 
+total sequence = 10600 sequences
+
+We built a user-friendly website : https://probable-mellow-loon.anvil.app/
+
+we built thid website using ANVIL software
