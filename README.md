@@ -8,4 +8,5 @@ total sequence = 10600 sequences
 
 We built a user-friendly website : https://probable-mellow-loon.anvil.app/
 
-we built thid website using ANVIL software
+we built thia website using ANVIL software
+
